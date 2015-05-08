@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.params=aName
+comment0.target=Person(java.lang.String)
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ Person\n
+comment1.params=
+comment1.target=java.lang.String\ getName()
+comment1.text=\n\ Produce\ the\ person's\ name\n
+comment2.params=friend
+comment2.target=void\ addFriend(Person)
+comment2.text=\n\ Add\ a\ friend\ to\ friends\n\ \n\ @param\ \ friend\ Persona\ friend\ to\ add\n
+comment3.params=nonFriend
+comment3.target=void\ unfriend(Person)
+comment4.params=
+comment4.target=java.lang.String\ getFriends()
+numComments=5
